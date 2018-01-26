@@ -6,6 +6,7 @@ master|[![Build Status](https://travis-ci.org/madhurya333/correct_cpp_hello.svg?
 
 [Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Hello'.
 
+#
 ## Goal
 
  * Understand [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
